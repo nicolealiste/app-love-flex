@@ -111,3 +111,16 @@ footer{
   color: white;
   padding-top: 7px;
 }
+
+/*Ejercicio Evaluado*/
+
+/*Work*/
+#work{
+	background-color: #fff;
+	text-align: center;
+	padding: 70px;
+}
+#work.flex-container{
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
